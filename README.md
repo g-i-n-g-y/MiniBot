@@ -20,8 +20,13 @@ Lenovo ThinkCentre M710q or M720q (i5-6500)
 500 GB SSD Boot Drive
 
 Had AI suggest build out timeline:
+
 Month 0–1	Build MiniBot Node #1 (Control Plane + VMs)
+
 Month 2–3	Add Node #2 (Worker #1); deploy Immich + backups
+
 Month 4–6	Add Node #3 (Worker #2); start scaling apps
+
 Month 7–12	Add Node #4 (Worker #3); enable monitoring + replicas
+
 Ongoing	Tune resources, update K3s, experiment with new service
